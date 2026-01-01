@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+watchfiles
+python-dotenv
+
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-google-genai
+google-genai
+
+pypdf
+faiss-cpu
+sentence-transformers
+torch
+gradio

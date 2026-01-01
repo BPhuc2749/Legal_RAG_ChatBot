@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env/
+venv/
+
+# Logs
+logs/
+*.jsonl
+
+# Vector store (FAISS)
+vectorstore/
+
+# Data (ignore raw PDFs only)
+data/**/*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
